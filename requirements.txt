@@ -5,6 +5,7 @@ telegraph
 gTTS
 googletrans==4.0.0rc1
 yt_dlp
+pyrogram
 requests
 aiohttp
 aiofiles
